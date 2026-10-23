@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.env
+.streamlit/secrets.toml
+*.pdf
+*.docx
+uploads/*.txt
+!.gitignore
+!README.md
+!requirements.txt
